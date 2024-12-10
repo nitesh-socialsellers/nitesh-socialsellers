@@ -6,7 +6,14 @@
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: **I believe every challenge is an opportunity to grow—and yes, I drink too much Tea!**  
 
+### 🛠️ Technologies & Tools
 
+#### MERN Stack
+![MERN Stack](https://img.icons8.com/color/480/mern.png)  
+
+#### DevOps with AWS & DigitalOcean
+![AWS](https://img.icons8.com/color/480/amazon-web-services.png)  
+![DigitalOcean](https://img.icons8.com/color/480/digital-ocean.png)  
 
 <!---
 nitesh-socialsellers/nitesh-socialsellers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
