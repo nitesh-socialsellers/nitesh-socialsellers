@@ -9,7 +9,7 @@
 ### 🛠️ Technologies & Tools
 
 #### MERN Stack
-![MERN Stack](https://img.icons8.com/color/480/mern.png)  
+![MERN Stack]([https://img.icons8.com/color/480/mern.png](https://images.prismic.io/loco-blogs/79328284-f97b-489f-924c-eb3b17e34b56_image2.png?auto=compress%2Cformat&rect=0%2C0%2C1999%2C1124&w=1920&fit=max))  
 
 #### DevOps with AWS & DigitalOcean
 ![AWS](https://img.icons8.com/color/480/amazon-web-services.png)  
